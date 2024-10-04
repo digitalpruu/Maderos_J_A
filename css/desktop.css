@@ -8,7 +8,7 @@
   padding-left: 10px;
 }
 .nav-container nav .logo-nav img {
-  width: 18vw;
+  width: 25vw;
 }
 .nav-container nav .menu {
   display: flex;
@@ -29,10 +29,10 @@ main .hero .hero-title {
   align-items: center;
 }
 main .hero .hero-title div h1 {
-  font-size: 7rem;
+  font-size: 6.5rem;
 }
 main .hero .hero-title div h2 {
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 main .hero .hero-image {
   width: 50%;
@@ -110,5 +110,5 @@ footer .social-media .social-icons a img:hover {
   transform: scale(1.1);
 }
 footer .logo-footer img {
-  width: 18vw;
+  width: 25vw;
 }/*# sourceMappingURL=desktop.css.map */
